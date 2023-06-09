@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = [200~git@github.com:LynneFei/GA-CPLEX.git~
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = LynneFei
